@@ -9,16 +9,30 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/inter": "^5.1.1",
+    "@fontsource/six-caps": "^5.1.1",
     "@radix-ui/react-hover-card": "^1.1.2",
-    "@tabler/icons-react": "^3.22.0",
+    "@radix-ui/react-label": "^2.1.1",
+    "@radix-ui/react-slot": "^1.1.1",
+    "@studio-freight/lenis": "^1.0.42",
+    "@studio-freight/react-lenis": "^0.0.47",
+    "@tabler/icons-react": "^3.31.0",
+    "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "framer-motion": "^11.11.17",
-    "next": "15.0.3",
+    "lenis": "^1.2.1",
+    "lucide-react": "^0.468.0",
+    "motion": "^11.18.2",
+    "next": "^15.1.4",
+    "next-auth": "^4.24.11",
+    "next-video": "^2.2.0",
     "qss": "^3.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "simplex-noise": "^4.0.3",
-    "tailwind-merge": "^2.5.5"
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss-animate": "^1.0.7",
+    "typeface-poppins": "^1.1.13"
   },
   "devDependencies": {
     "@types/node": "^20",
